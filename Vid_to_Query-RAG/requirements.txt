@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+joblib
+requests
+openai-whisper
+ffmpeg
+bge-m3
+llama3.2:latest

@@ -1,0 +1,7 @@
+I'd be happy to help you with your web development course.
+
+You asked about Video 10, "Video, Audio & Media in H". In this video, at timestamp 546.96 seconds, HTML is introduced as a key concept for handling various types of content on websites.
+
+The instructor explains how HTML can be used to incorporate video, audio, and other media elements into web pages. However, it's worth noting that the explanation about installing VS Code and hitting "Hit html" seems to be repeated in multiple videos (Videos 1, 5), which might not provide a clear understanding of the topic.
+
+If you're looking for more information on HTML and its role in handling media content, I recommend watching Video 10, "Video, Audio & Media in H", specifically from timestamp 546.96 seconds onwards.
